@@ -3,5 +3,3 @@ data2d = dlmread('G:\kmpa\Assignments\Assign1\Assignment1-Data\2.Bivariate\group
 surf(data2d);
 
 %sdjskvkl
-
-% this is extra line
